@@ -1,1 +1,9 @@
-Please look at https://github.com/FuadEfendi/tokenizer - this is "Distributed Executor", clustered, ZooKeeper-managed, it can run many tasks: Web Crawl, RSS Subscriber, Web Ping, Web POST, FileServer Indexer, Database Indexer, and many more.
+Please look at [https://github.com/FuadEfendi/tokenizer]:
+- "Distributed Executor", clustered, ZooKeeper-managed, it can run many tasks in parallel (Clustered Multitone): 
+** Web Crawl
+** RSS Subscriber
+** Web Ping
+** Web POST
+** FileServer Indexer
+** Database Indexer
+and many more.
