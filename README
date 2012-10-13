@@ -1,5 +1,5 @@
-Please look at [https://github.com/FuadEfendi/tokenizer]:
-- "Distributed Executor", clustered, ZooKeeper-managed, it can run many tasks in parallel (Clustered Multitone): 
+Please look at [Distributed Executor](https://github.com/FuadEfendi/tokenizer):
+- clustered, ZooKeeper-managed, it can run many tasks in parallel (Clustered Multitone), alternative to MapReduce (although it can generate and submit MapReduce tasks too!): 
 ** Web Crawl
 ** RSS Subscriber
 ** Web Ping
